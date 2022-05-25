@@ -32,7 +32,7 @@ hotjar.com
 
 clarity.microsoft.com
 
-msecnd.net
+
 clarity.ms
 
 bam-cell.nr-data.net
